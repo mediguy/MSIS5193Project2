@@ -1,0 +1,9 @@
+streamlit
+langchain-ollama
+ChatOllama
+pymupdf
+pdfminer.six
+python-docx
+docx2txt
+beautifulsoup4
+google.generativeai
